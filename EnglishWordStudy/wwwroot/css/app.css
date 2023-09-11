@@ -13,9 +13,12 @@ a, .btn-link {
 }
 
 .btn-primary {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
+    /*Цвет текста*/
+    color: #ffffff;
+    /*Изначальный цвет кнопки*/
+    background-color: #1861ac;
+    /*Цвет при наведении*/
+    border-color: #6d2b04;
 }
 
 .content {
